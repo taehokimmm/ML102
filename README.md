@@ -7,6 +7,7 @@
 ## 목표
 
 스터디의 목표는 다음과 같습니다.
+
 * 머신러닝의 수학적 기초
 * 머신러닝을 활용한 실제(real-world) 문제 해결
 * 누군가에게 뭔가 했다 하고 보여줄 수 있을 만큼의 결과물
@@ -49,7 +50,8 @@
   - KNN
   - Logistic Regression
   - Naive Bayes
-  - SVM
+  - SVM + Kernel Method
+  - Randomized Forests
   - GMM
 - Neural Nets
   - CNN
@@ -63,4 +65,13 @@
 
 ## 참가자
 
-TBA
+GitHub 아이디 알파벳순으로 정렬했습니다  
+[@adrockcuber](https://github.com/adrockcuber/ML102)  
+[@hoyony](https://github.com/hoyony/ML102)  
+[@KM-Leee](https://github.com/KM-Leee/ML102)  
+[@matthewwk21](https://github.com/matthewwk21/ML102)  
+[@minji-dev](https://github.com/minji-dev/ML102)  
+[@mintway0341](https://github.com/mintway0341/ML102)  
+[@ss0yeon](https://github.com/ss0yeon/ML102)  
+[@taehokimmm](https://github.com/taehokimmm/ML102)  
+[@tuna9441](https://github.com/tuna9441/ML102)  
